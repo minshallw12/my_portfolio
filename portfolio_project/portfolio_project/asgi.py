@@ -1,5 +1,5 @@
 """
-ASGI config for portfolio_project project.
+ASGI config for backend project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
