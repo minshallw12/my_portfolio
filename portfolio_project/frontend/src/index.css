@@ -116,3 +116,12 @@ a {
   height: 500px;
 }
 
+.myskills {
+  display: flex;
+
+}
+
+.padding {
+  padding: 30px
+}
+

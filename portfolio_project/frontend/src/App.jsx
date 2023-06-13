@@ -3,7 +3,7 @@ import {Outlet} from 'react-router-dom';
 import Header from './components/header/Header';
 import MyNavBar from './components/header/Navbar';
 
-function App() {
+export default function App() {
 
 
   return (
@@ -17,5 +17,3 @@ function App() {
 </div>
   )
 }
-
-export default App
