@@ -67,21 +67,18 @@ a {
 .intro_container {
   display: flex;
   justify-content: center;
-  border: 3px dotted lime;
 }
 
 .left_container {
   display: flex;
   flex-direction: column;
   align-items: center;
-  border: 2px dotted white;
   margin: 5px;
 }
 .right_container {
   display: flex;
   flex-direction: column;
   align-items: center;
-  border: 2px dotted white;
   margin: 5px;
 }
 .container_textbox {
@@ -98,13 +95,11 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  border: 2px dotted lime;
   height: 500px;
   width: 500px;
 }
 
 .spinning_caption {
-  border: 2px dotted pink;
   height: 100px;
 }
 
