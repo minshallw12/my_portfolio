@@ -8,12 +8,15 @@ export default function App() {
 
   return (
     <div className='app_container'>
-    <Header/>
-    <MyNavBar/>
-    <hr />
-    <Outlet/>
-    <hr />
-    <footer>Copyright© 2023 --  Will Minshall</footer>
-</div>
+      <div className='center'>
+        <Header/>
+      </div>
+        
+      <MyNavBar/>
+      <hr />
+      <Outlet/>
+      <hr />
+      <footer>Copyright© 2023 --  Will Minshall</footer>
+    </div>
   )
 }
