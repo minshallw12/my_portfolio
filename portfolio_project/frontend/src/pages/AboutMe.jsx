@@ -56,8 +56,8 @@ export default function AboutMe() {
             <div className="education padding">
                 <ul>
                     <li className='xs-padding'>MBA in Finance - Columbia Southern University 22' - <a href="https://www.columbiasouthern.edu/about-csu/accreditation-licensure/">Learn more</a></li>
-                    <li className='xs-padding'>BS in Business Admin/Finance - Columbia Southern University - 18' - <a href="https://www.columbiasouthern.edu/about-csu/accreditation-licensure/">Learn more</a></li>
-                    <li className='xs-padding'>Naval Nuclear Program - United States Navy 13' - <a href="https://www.navsea.navy.mil/Home/NNPTC/powerschool.aspx">Learn more</a></li>
+                    <li className='xs-padding'>BS in Business Admin/Finance - Columbia Southern University 18' - <a href="https://www.columbiasouthern.edu/about-csu/accreditation-licensure/">Learn more</a></li>
+                    <li className='xs-padding'>Nuclear Systems Technician- United States Navy 13'<a href="https://www.navsea.navy.mil/Home/NNPTC/powerschool.aspx">Learn more</a></li>
                 </ul>
             </div>
 

@@ -28,7 +28,7 @@ export default function Intro() {
                 <div className="right_container">
                     <div className="summary">
                         <p className='padding'>I am a military veteran with an entrepreneurial spirit that has an insatiable desire to learn and grow in the field of software engineering.</p>
-                        <p className='padding'> I aspire to help companies build best in class software solution that focus on meeting their ever evolving customer demands with mentorship from senior software engineers.</p>
+                        <p className='padding'> I aspire to help companies build best in class software solutions that focus on meeting their ever evolving customer demands with mentorship from senior software engineers.</p>
                     </div>
                 </div>
             </div>
