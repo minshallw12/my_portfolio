@@ -125,6 +125,13 @@ a {
 .sm-padding {
   padding: 5px;
 }
+.xs-padding {
+  padding: 2px;
+}
+.center {
+  display: flex;
+  justify-content: center;
+}
 
 .MyProjects {
   padding-left: 100px
@@ -150,16 +157,6 @@ a {
   margin-bottom: 60px
 }
 
-.purple {
-  border: 2px dotted purple
-}
-.pink {
-  border: 2px dotted pink
-}
-.orange {
-  border: 2px dotted orange
-}
-.center {
-  display: flex;
-  justify-content: center;
+.outlet {
+  height: 800px;
 }

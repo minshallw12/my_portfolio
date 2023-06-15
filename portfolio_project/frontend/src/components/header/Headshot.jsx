@@ -1,4 +1,4 @@
-import headshot from '../../images/square.jpg'
+import headshot from '../../images/headshot.jpeg'
 
 export default function Headshot() {
     return (

@@ -3,7 +3,7 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import { Link } from 'react-router-dom';
 
-function BasicExample() {
+export default function MyNav() {
   return (
     <Navbar bg="white" expand="lg" style={{background:'white'}}>
       <Container style={{display:'flex', alignItems:'center', justifyContent:'center', height: '30px'}}>
@@ -18,5 +18,3 @@ function BasicExample() {
     </Navbar>
   );
 }
-
-export default BasicExample;

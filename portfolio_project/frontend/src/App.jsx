@@ -14,7 +14,9 @@ export default function App() {
         
       <MyNavBar/>
       <hr />
-      <Outlet/>
+      <div className='outlet'>
+        <Outlet/>
+      </div>
       <hr />
       <footer>Copyright© 2023 --  Will Minshall</footer>
     </div>

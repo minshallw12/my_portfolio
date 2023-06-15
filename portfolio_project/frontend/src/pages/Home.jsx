@@ -34,11 +34,11 @@ export default function Intro() {
             </div>
 
             <div className='bottom_container'>
-                <div>“Nothing in the world can take the place of persistence. </div>
-                <div>Talent will not; nothing is more common than unsuccessful men with talent. </div>
-                <div>Genius will not; unrewarded genius is almost a proverb.</div>
-                <div>Education will not; the world is full of educated derelicts.</div>
-                <div>Persistence and determination alone are omnipotent." - Calvin Coolidge</div>
+                <div className='xs-padding'>“Nothing in the world can take the place of persistence. </div>
+                <div className='xs-padding'>Talent will not; nothing is more common than unsuccessful men with talent. </div>
+                <div className='xs-padding'>Genius will not; unrewarded genius is almost a proverb.</div>
+                <div className='xs-padding'>Education will not; the world is full of educated derelicts.</div>
+                <div className='xs-padding'>Persistence and determination alone are omnipotent." - Calvin Coolidge</div>
             </div>
             <div className='space'></div>
         </div>
