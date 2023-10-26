@@ -6,7 +6,7 @@ class Donut extends React.Component {
     render() {
         return (
             <div className="donut-frame">
-                <button id='toggle-btn' onClick={this.handleClick}>DONUT PLEASE</button>
+                <button id='toggle-btn' onClick={this.handleClick}>Click me for Donut!</button>
                 <pre id='ascii'>{}</pre>
             </div>
      // <button id='toggle-btn' onClick={this.handleClick}>DONUT PLEASE</button>       

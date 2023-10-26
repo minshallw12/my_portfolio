@@ -1,4 +1,6 @@
 import FreshDonut from '../components/donut/FreshDonut'
+import Badges from '../components/Badges'
+
 
 
 export default function Intro() {
@@ -30,6 +32,7 @@ export default function Intro() {
                         <p className='padding'>I am a military veteran with an entrepreneurial spirit that has an insatiable desire to learn and grow in the field of software engineering.</p>
                         <p className='padding'> I aspire to help companies build best in class software solutions that focus on meeting their ever evolving customer demands with mentorship from senior software engineers.</p>
                     </div>
+                    <Badges/>
                 </div>
             </div>
 

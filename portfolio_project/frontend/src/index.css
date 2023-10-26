@@ -100,6 +100,9 @@ a {
   align-items: center;
 }
 
+.badges {
+  padding-bottom: 28px;
+}
 
 .ascii_art_container {
   display: flex;
