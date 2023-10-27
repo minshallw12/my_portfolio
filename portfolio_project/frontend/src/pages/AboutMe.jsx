@@ -72,11 +72,11 @@ export default function AboutMe() {
             <h3>My Education</h3>
             <div className="education padding">
                 <ul>
-                    <li className='xs-padding'>BS in Computer Science - Western Governors University {'(Currently enrolled)'} - <a href="https://www.wgu.edu/student-experience/how-you-learn/accreditation.html#:~:text=Western%20Governors%20University%20is%20accredited,includes%20WGU's%20headquarters%20of%20Utah.">Learn More</a></li>
+                    <li className='xs-padding'>BS in Computer Science - Western Governors University {'(Enrolled)'} - <a href="https://www.wgu.edu/student-experience/how-you-learn/accreditation.html#:~:text=Western%20Governors%20University%20is%20accredited,includes%20WGU's%20headquarters%20of%20Utah.">Learn More</a></li>
                     <li className='xs-padding'>Full Stack Software Engineering Certificate - Code Platoon 23' - <a href="https://www.codeplatoon.org/full-stack/">Learn More</a></li>
                     <li className='xs-padding'>MBA in Finance - Columbia Southern University 22' - <a href="https://www.columbiasouthern.edu/about-csu/accreditation-licensure/">Learn more</a></li>
                     <li className='xs-padding'>BS in Business Admin/Finance - Columbia Southern University 18' - <a href="https://www.columbiasouthern.edu/about-csu/accreditation-licensure/">Learn more</a></li>
-                    <li className='xs-padding'>Nuclear Systems Technician- United States Navy 13'<a href="https://www.navsea.navy.mil/Home/NNPTC/powerschool.aspx">Learn more</a></li>
+                    <li className='xs-padding'>Nuclear Systems Technician- United States Navy 13' - <a href="https://www.navsea.navy.mil/Home/NNPTC/powerschool.aspx">Learn more</a></li>
                 </ul>
             </div>
 

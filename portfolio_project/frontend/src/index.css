@@ -32,6 +32,8 @@ footer {
   justify-content: space-evenly;
   padding: 15px;
   max-width: 1100px;
+  border: 2px dotted white;
+  width: 100vw;
 }
 
 .headshot, .ContactInfo, .currently_working_at  {
@@ -125,9 +127,19 @@ a {
 .padding {
   padding: 30px;
 }
+
+.md-padding {
+  padding: 15px;
+}
+
 .sm-padding {
   padding: 5px;
 }
+
+.sm-padding-children > * {
+  padding: 5px;
+}
+
 .xs-padding {
   padding: 2px;
 }
