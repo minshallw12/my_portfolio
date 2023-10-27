@@ -43,6 +43,7 @@ footer {
   align-items: center;
   width: 220px;
   height: 220px;
+  border: 2px purple dotted;
 }
 
 #logo {
@@ -53,9 +54,17 @@ footer {
 }
 #headshot {
   width: 200px;
+  /* width: 90%;
+  height: 90%; */
   height: 200px;
   border-radius: 7px;
 }
+/* .headshot {
+  min-width: 50px;
+  width: 10rem;
+  min-height: 50px;
+  height: 10rem;
+} */
 
 .ContactInfo {
   width: 600px;
@@ -67,6 +76,20 @@ a {
 
 .NavLinks {
   color: black;
+}
+.navbar {
+  background: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 30px;
+}
+
+#navbar-children {
+  display: flex;
+  justify-content: space-around;
+  max-width: 900px;
+  width: 100vw;
 }
 
 /* intropage css */
